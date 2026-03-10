@@ -1,5 +1,5 @@
 ## Asincrona Semana 8 - Expresiones LINQ y Lambda en C#
-Se dio solucion a los ejercicios proporcionados en el repositorio. Dicha solucion aparece al final luego del static void que ya estaba definido.
+Se dio solucion a los ejercicios proporcionados en el repositorio. Dicha solucion aparece al final luego del static void que ya estaba definido en el repositorio.
 
 > *Desarrollado por: Grupo 5*  
 > *Fecha: 9 de Marzo de 2026*
